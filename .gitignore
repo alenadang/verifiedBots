@@ -1,3 +1,7 @@
+# alena's stuff
+/data
+scoring_code_participant.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
